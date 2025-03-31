@@ -15,6 +15,12 @@ Live design preview is a powerful vscode extension that allows developers to see
 3. A preview panel will open beside your editor
 4. As you edit and save your file, the preview will update automatically
 
+## Screenshots
+
+![Screenshot](screenshots/1.png)
+
+![Screenshot](screenshots/2.png)
+
 ## Extension Settings
 
 This extension doesn't add any VS Code settings yet.
